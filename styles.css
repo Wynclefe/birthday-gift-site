@@ -43,6 +43,7 @@ h1, h2, h3, h4, p {
 .gift-cover {
     width: 400px;
     height: 400px;
+    margin: 0 auto;
     border:5px solid white;
     border-radius: 10px;
 }
