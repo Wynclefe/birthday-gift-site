@@ -15,9 +15,7 @@ h1, h2, h4, p {
     text-shadow: 0 0 1px black;
 }
 
-h2, h4 {
-    background-color: #EFB0C9;
-}
+
 
 #header {
     display: flex;
@@ -26,12 +24,15 @@ h2, h4 {
 }
 
 #gift-age {
+    background-color: #EFB0C9;
     padding: 6px 12px;
     border-radius: 10px;
     margin-bottom: 0;
 }
 
 #gift-date {
+    background-color: #EFB0C9;
     padding: 5px 10px;
     border-radius: 10px;
+    margin-top: 10px;
 }
