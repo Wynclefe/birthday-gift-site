@@ -18,3 +18,7 @@ h1, h2, h4, p {
 h2, h4 {
     background-color: #EFB0C9;
 }
+
+#header {
+    display: flex;
+}
