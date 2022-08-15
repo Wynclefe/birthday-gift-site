@@ -59,7 +59,7 @@ h1, h2, h3, h4, p {
 }
 
 .gift-cover:hover {
-    background-image: url("/corts.gif");
+    background-image: url("images/corts.gif");
 }
 
 #gift-react:hover {
