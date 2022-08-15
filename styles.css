@@ -42,4 +42,5 @@ h1, h2, h3, h4, p {
 
 .gift-cover {
     width: 400px;
+    border:5px solid white;
 }
