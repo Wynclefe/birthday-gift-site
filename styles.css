@@ -57,3 +57,7 @@ h1, h2, h3, h4, p {
 .gift-hint {
     margin-top: 10px;
 }
+
+.gift-cover:hover {
+    background-image: url("images/duterte-budots.gif");
+}
