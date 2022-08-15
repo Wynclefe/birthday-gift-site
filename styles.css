@@ -61,3 +61,7 @@ h1, h2, h3, h4, p {
 .gift-cover:hover {
     background-image: url("images/duterte-budots.gif");
 }
+
+#gift-react:hover {
+    background-image: url("images/dancing.gif");
+}
