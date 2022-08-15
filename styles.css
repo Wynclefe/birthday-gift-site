@@ -28,6 +28,7 @@ h2, h4 {
 #gift-age {
     padding: 6px 12px;
     border-radius: 10px;
+    margin-bottom: 0;
 }
 
 #gift-date {
