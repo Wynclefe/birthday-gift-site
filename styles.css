@@ -22,5 +22,5 @@ h2, h4 {
 #header {
     display: flex;
     flex-direction: column;
-    
+    align-items: center;
 }
